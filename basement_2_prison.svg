@@ -1,0 +1,47 @@
+<svg viewBox="0 0 700 460" width="100%" xmlns="http://www.w3.org/2000/svg" style="font-family:sans-serif;background:#fafaf7">
+<text x="55" y="30" text-anchor="middle" font-size="12" fill="#5F5E5A">← sea (rear)</text>
+<text x="645" y="30" text-anchor="middle" font-size="12" fill="#5F5E5A">mound (front) →</text>
+<text x="350" y="50" text-anchor="middle" font-size="16" font-weight="500" fill="#2C2C2A">Basement 2 — Prison Level</text>
+<rect x="100" y="120" width="460" height="280" fill="#FCEBEB" stroke="#A32D2D" stroke-width="0.5"/>
+<text x="330" y="140" text-anchor="middle" font-size="10" fill="#791F1F">below central mass only — wings do not extend down</text>
+<rect x="120" y="160" width="60" height="60" fill="#F7C1C1" stroke="#A32D2D" stroke-width="0.4"/>
+<text x="150" y="185" text-anchor="middle" font-size="9" fill="#791F1F">cell</text>
+<text x="150" y="200" text-anchor="middle" font-size="8" fill="#791F1F">librarian</text>
+<rect x="180" y="160" width="60" height="60" fill="#F7C1C1" stroke="#A32D2D" stroke-width="0.4"/>
+<text x="210" y="185" text-anchor="middle" font-size="9" fill="#791F1F">cell</text>
+<text x="210" y="200" text-anchor="middle" font-size="8" fill="#791F1F">cleric</text>
+<rect x="240" y="160" width="60" height="60" fill="#F7C1C1" stroke="#A32D2D" stroke-width="0.4"/>
+<text x="270" y="185" text-anchor="middle" font-size="9" fill="#791F1F">cell</text>
+<text x="270" y="200" text-anchor="middle" font-size="8" fill="#791F1F">farmer</text>
+<rect x="300" y="160" width="60" height="60" fill="#F7C1C1" stroke="#A32D2D" stroke-width="0.4"/>
+<text x="330" y="185" text-anchor="middle" font-size="9" fill="#791F1F">cell</text>
+<text x="330" y="200" text-anchor="middle" font-size="8" fill="#791F1F">armorer</text>
+<rect x="360" y="160" width="60" height="60" fill="#F7C1C1" stroke="#A32D2D" stroke-width="0.4"/>
+<text x="390" y="185" text-anchor="middle" font-size="9" fill="#791F1F">cell</text>
+<text x="390" y="200" text-anchor="middle" font-size="8" fill="#791F1F">toolsmith</text>
+<rect x="420" y="160" width="60" height="60" fill="#F7C1C1" stroke="#A32D2D" stroke-width="0.4"/>
+<text x="450" y="185" text-anchor="middle" font-size="9" fill="#791F1F">cell</text>
+<text x="450" y="200" text-anchor="middle" font-size="8" fill="#791F1F">fletcher</text>
+<rect x="480" y="160" width="60" height="60" fill="#F7C1C1" stroke="#A32D2D" stroke-width="0.4"/>
+<text x="510" y="185" text-anchor="middle" font-size="9" fill="#791F1F">cell</text>
+<text x="510" y="200" text-anchor="middle" font-size="8" fill="#791F1F">wpnsmith</text>
+<rect x="120" y="220" width="420" height="20" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.4"/>
+<text x="330" y="234" text-anchor="middle" font-size="9" fill="#444441">guard walkway (trade through iron bars)</text>
+<rect x="120" y="250" width="420" height="40" fill="#F0999" fill-opacity="0.3" stroke="#A32D2D" stroke-width="0.4" stroke-dasharray="3,3"/>
+<text x="330" y="275" text-anchor="middle" font-size="10" fill="#791F1F">oubliette pit (villagers see zombie below)</text>
+<rect x="270" y="300" width="120" height="60" fill="#D3D1C7" stroke="#5F5E5A" stroke-width="0.4"/>
+<text x="330" y="325" text-anchor="middle" font-size="10" font-weight="500" fill="#444441">zombie chamber</text>
+<text x="330" y="343" text-anchor="middle" font-size="8" fill="#444441">named zombie (no despawn)</text>
+<rect x="120" y="300" width="140" height="80" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.4"/>
+<text x="190" y="335" text-anchor="middle" font-size="10" font-weight="500" fill="#444441">golem spawn</text>
+<text x="190" y="352" text-anchor="middle" font-size="9" fill="#444441">16×16 dark area</text>
+<rect x="400" y="300" width="140" height="80" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.4"/>
+<text x="470" y="335" text-anchor="middle" font-size="10" font-weight="500" fill="#444441">collection</text>
+<text x="470" y="352" text-anchor="middle" font-size="9" fill="#444441">hoppers → chests</text>
+<line x1="260" y1="340" x2="275" y2="340" stroke="#3B8BD4" stroke-width="1.5"/>
+<polygon points="275,336 275,344 285,340" fill="#3B8BD4"/>
+<text x="270" y="395" text-anchor="middle" font-size="8" fill="#444441">water stream pushes golems →</text>
+<rect x="540" y="380" width="20" height="30" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.4"/>
+<text x="550" y="398" text-anchor="middle" font-size="8" fill="#444441">stair</text>
+<text x="550" y="408" text-anchor="middle" font-size="8" fill="#444441">↑</text>
+</svg>

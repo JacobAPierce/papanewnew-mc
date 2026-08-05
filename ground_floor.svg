@@ -1,0 +1,58 @@
+<svg viewBox="0 0 700 540" width="100%" xmlns="http://www.w3.org/2000/svg" style="font-family:sans-serif;background:#fafaf7">
+<text x="55" y="30" text-anchor="middle" font-size="12" fill="#5F5E5A">← sea (rear)</text>
+<text x="645" y="30" text-anchor="middle" font-size="12" fill="#5F5E5A">mound (front) →</text>
+<text x="350" y="50" text-anchor="middle" font-size="16" font-weight="500" fill="#2C2C2A">Ground Floor</text>
+<rect x="290" y="60" width="140" height="120" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
+<rect x="308" y="66" width="104" height="12" fill="#7F77DD" opacity="0.7"/>
+<text x="360" y="76" text-anchor="middle" font-size="9" fill="#26215C">altar / sanctuary</text>
+<text x="360" y="112" text-anchor="middle" font-size="14" font-weight="500" fill="#3C3489">Nave</text>
+<text x="360" y="130" text-anchor="middle" font-size="10" fill="#3C3489">chapel wing · pews</text>
+<rect x="405" y="150" width="20" height="25" fill="none" stroke="#534AB7" stroke-width="0.5"/>
+<text x="415" y="167" text-anchor="middle" font-size="8" fill="#3C3489">sacr</text>
+<rect x="298" y="150" width="20" height="25" fill="none" stroke="#534AB7" stroke-width="0.5"/>
+<text x="308" y="167" text-anchor="middle" font-size="8" fill="#3C3489">oss</text>
+<rect x="100" y="180" width="160" height="200" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+<text x="180" y="260" text-anchor="middle" font-size="14" font-weight="500" fill="#854F0B">Great hall</text>
+<rect x="175" y="285" width="10" height="8" fill="#BA7517" opacity="0.7"/>
+<text x="180" y="308" text-anchor="middle" font-size="9" fill="#854F0B">fireplace</text>
+<rect x="225" y="220" width="35" height="140" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
+<line x1="225" y1="230" x2="260" y2="230" stroke="#444441" stroke-width="0.3"/>
+<line x1="225" y1="245" x2="260" y2="245" stroke="#444441" stroke-width="0.3"/>
+<line x1="225" y1="260" x2="260" y2="260" stroke="#444441" stroke-width="0.3"/>
+<line x1="225" y1="275" x2="260" y2="275" stroke="#444441" stroke-width="0.3"/>
+<line x1="225" y1="290" x2="260" y2="290" stroke="#444441" stroke-width="0.3"/>
+<text x="242" y="350" text-anchor="middle" font-size="8" fill="#444441">grand stair ↑</text>
+<rect x="100" y="140" width="90" height="40" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text x="145" y="165" text-anchor="middle" font-size="12" font-weight="500" fill="#0C447C">Kitchen</text>
+<rect x="270" y="180" width="180" height="200" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
+<text x="280" y="196" text-anchor="start" font-size="9" fill="#444441">cloister walkway</text>
+<rect x="290" y="210" width="140" height="140" fill="none" stroke="#0F6E56" stroke-width="0.5" stroke-dasharray="4,3"/>
+<text x="360" y="270" text-anchor="middle" font-size="14" font-weight="500" fill="#0F6E56">Courtyard</text>
+<text x="360" y="288" text-anchor="middle" font-size="12" fill="#0F6E56">/ Garden</text>
+<circle cx="360" cy="315" r="6" fill="none" stroke="#0F6E56" stroke-width="0.5"/>
+<text x="360" y="333" text-anchor="middle" font-size="9" fill="#0F6E56">well</text>
+<rect x="460" y="180" width="100" height="200" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text x="510" y="275" text-anchor="middle" font-size="14" font-weight="500" fill="#0C447C">Entry hall</text>
+<line x1="560" y1="270" x2="560" y2="295" stroke="#0C447C" stroke-width="2.5"/>
+<text x="580" y="285" text-anchor="start" font-size="9" fill="#0C447C">front doors</text>
+<rect x="470" y="380" width="90" height="40" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text x="515" y="405" text-anchor="middle" font-size="12" font-weight="500" fill="#0C447C">Armory</text>
+<rect x="290" y="380" width="140" height="120" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text x="360" y="420" text-anchor="middle" font-size="14" font-weight="500" fill="#085041">Library</text>
+<text x="360" y="438" text-anchor="middle" font-size="10" fill="#085041">main hall</text>
+<text x="360" y="456" text-anchor="middle" font-size="9" fill="#085041">bookshelves, reading tables</text>
+<rect x="298" y="465" width="20" height="30" fill="none" stroke="#0F6E56" stroke-width="0.3"/>
+<text x="308" y="482" text-anchor="middle" font-size="8" fill="#085041">nook</text>
+<rect x="405" y="465" width="20" height="30" fill="none" stroke="#0F6E56" stroke-width="0.3"/>
+<text x="415" y="482" text-anchor="middle" font-size="8" fill="#085041">ench</text>
+<line x1="340" y1="180" x2="380" y2="180" stroke="#fafaf7" stroke-width="3"/>
+<line x1="340" y1="180" x2="380" y2="180" stroke="#5F5E5A" stroke-width="0.4" stroke-dasharray="2,2"/>
+<line x1="340" y1="380" x2="380" y2="380" stroke="#fafaf7" stroke-width="3"/>
+<line x1="340" y1="380" x2="380" y2="380" stroke="#5F5E5A" stroke-width="0.4" stroke-dasharray="2,2"/>
+<line x1="270" y1="260" x2="270" y2="300" stroke="#fafaf7" stroke-width="3"/>
+<line x1="270" y1="260" x2="270" y2="300" stroke="#BA7517" stroke-width="0.4" stroke-dasharray="2,2"/>
+<line x1="450" y1="260" x2="450" y2="300" stroke="#fafaf7" stroke-width="3"/>
+<line x1="450" y1="260" x2="450" y2="300" stroke="#185FA5" stroke-width="0.4" stroke-dasharray="2,2"/>
+<line x1="90" y1="520" x2="620" y2="520" stroke="#5F5E5A" stroke-width="0.4" opacity="0.4" stroke-dasharray="4,3"/>
+<text x="355" y="535" text-anchor="middle" font-size="9" fill="#444441">central axis: great hall → courtyard → entry hall → doors → mound → bridge</text>
+</svg>
