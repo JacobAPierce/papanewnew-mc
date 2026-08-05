@@ -6,7 +6,7 @@
 
 ## Site Map
 
-![Chunkbase view centered on the spawn island — shows the surrounding ocean, mushroom biome to the northwest, nearest villages, and mainland biomes](site_map.png)
+![Chunkbase view centered on the spawn island — shows the surrounding ocean, mushroom biome to the northwest, nearest villages, and mainland biomes](/drawings/site_map.png)
 
 The player marker (right-of-center on the map, sitting on the small dark island) is your spawn/castle island. Coordinates are approximate — pull them exactly from Chunkbase when you plan expeditions.
 
